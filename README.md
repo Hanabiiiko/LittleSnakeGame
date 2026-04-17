@@ -1,3 +1,5 @@
+[![Maintainability](https://qlty.sh/gh/Hanabiiiko/projects/LittleSnakeGame/maintainability.svg)](https://qlty.sh/gh/Hanabiiiko/projects/LittleSnakeGame)
+
 # Консольная игра "Змейка" с системой рейтинга
 
 
