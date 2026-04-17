@@ -52,9 +52,9 @@ def main_menu():
         elif choice == '2':
             speed = 0.15
         elif choice == '3':
-            speed = 0.08
+            speed = 0.1
         elif choice == '4':
-            speed = 0.08
+            speed = 0.1
             rating_mode = True
             print("\n--- Режим Рейтинга ---")
             nickname = validate_nickname()
